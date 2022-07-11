@@ -72,12 +72,12 @@ h4 {
   width: 15px;
 }
 
-::-webkit-scrollbar-track, ::-moz-scrollbar-track, ::-o-scrollbar-track, ::-ms-scrollbar-track {
+::-webkit-scrollbar-track {
     background: #f1f1f1;
 }
 
 
-::-webkit-scrollbar-thumb, ::-moz-scrollbar-thumb, ::-o-scrollbar-thumb, ::-ms-scrollbar-thumb {
+::-webkit-scrollbar-thumb{
     border-radius: 25px;
     background: #a1cff1;
     cursor: pointer;
